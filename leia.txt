@@ -1,0 +1,7 @@
+jogue o codigo que deseja ofuscar em tst.lua dentro da pasta "Files_To_Obfuscate", apos isso starte o Obfuscator.exe e va a pasta
+"Files_To_Obfuscate" e pegue o caminho como por exemplo "C:\Obfuscator\Files_To_Obfuscate" e cole dentro do cmd que abriu
+com Obfuscator.exe ! de enter e aguarde o codigo ser ofuscado!!
+
+CREDITOS: Dogz1n#9252
+discord.gg/dogz1n
+OFICIAL DA SALA DE BOOSTER
